@@ -1,0 +1,5 @@
+The equation is: Weight = 0.8 * Height + -66 
+  heights Predicted_Weight
+1     155               58
+2     165               66
+3     175               74
